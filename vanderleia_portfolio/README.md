@@ -1,6 +1,6 @@
 # Portfólio — Vanderleia Paula
 
-Portfólio pessoal com projetos de frontend e backend. Personalizado para Vanderleia Paula.
+Portfólio pessoal com projetos de frontend e backend.
 
 ## Conteúdo
 - Site principal: `index.html`
@@ -9,7 +9,7 @@ Portfólio pessoal com projetos de frontend e backend. Personalizado para Vander
 
 ## Publicação
 - Frontend: GitHub Pages (Settings → Pages → Branch `main` / root)
-- Backend: hospedar em Render, Railway ou outro serviço de sua preferência.
+- Backend: hospedar em Render, Railway ou outro serviço.
 
 ## Contato
 vanderleiapdj@gmail.com
